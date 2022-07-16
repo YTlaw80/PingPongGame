@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Kdam+Thmor+Pro&family=Montserrat:wght@300&family=Roboto+Mono:wght@300&display=swap');
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+#wrap {
+    display: flex;
+    justify-content: center;
+}
+canvas {
+    background-color: rgb(177, 233, 255);
+    border: 2.5px solid blue;
+    border-radius: 10px;
+}
+p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
